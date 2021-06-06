@@ -46,11 +46,12 @@ or if you open with chrome browser klik this site : http://kajen.rf.gd/
 <a href="https://github.com/JayaByu/Kawah-Ijen/blob/main/Document/Karya%20ilmiah.pdf">Read More</a>
 </p>
 
-# 
+#  
+
+# Touch Me Senpai
+[![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/085606020282) [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jayawardhanabayu@gmail.com) [![](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:jayawardhana.ekaputra@binus.ac.id) [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sora_senpai._.8/) [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bayu-kun-35ab75187/) [![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCGHHHV_0Ln6dsoUHHOp1mQg)
 
 
-
-            
             
             
             
