@@ -33,7 +33,7 @@ or if you open with chrome browser klik this site : http://kajen.rf.gd/
 
 ### 📝 Poster 
 <p align="center">
-<img src="https://github.com/JayaByu/Kawah-Ijen/blob/main/Document/Poster.jpg" width="650" height="50%"> 
+<img src="https://github.com/JayaByu/Kawah-Ijen/blob/main/Document/poster.png" width="650" height="50%"> 
 
 <a href="https://github.com/JayaByu/Kawah-Ijen/blob/main/Document/Poster.jpg">Read More</a>
 </p>
@@ -43,7 +43,7 @@ or if you open with chrome browser klik this site : http://kajen.rf.gd/
 <p align="center">
 <img src="https://github.com/JayaByu/Kawah-Ijen/blob/main/GithubRasset/karyail.PNG" align="center" width="700" height="100%">
                 
-<a href="https://github.com/JayaByu/Kawah-Ijen/blob/main/Document/Karya%20ilmiah.pdf">Read More</a>
+<a href="https://github.com/JayaByu/Kawah-Ijen/blob/main/Document/HCI%20Karya%20Tulis%20ilmiah.docx">Read More</a>
 </p>
 
 #  
