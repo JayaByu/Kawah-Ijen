@@ -81,7 +81,7 @@ or if you open with chrome browser klik this site : http://kajen.rf.gd/
 <p align="center">
 <img src="https://github.com/JayaByu/Kawah-Ijen/blob/main/Document/poster.png" width="650" height="50%"> 
 
-<a href="https://github.com/JayaByu/Kawah-Ijen/blob/main/Document/poster.jpg">Read More</a>
+<a href="https://github.com/JayaByu/Kawah-Ijen/blob/main/Document/poster.png">Read More</a>
 </p>
 
 #
