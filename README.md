@@ -8,12 +8,59 @@
 
 # <p align="center">1337 Teams</p> 
 
-<p align="center">                    
-<img width="200px" src="https://github.com/JayaByu/Kawah-Ijen/blob/main/GithubRasset/ngg.png"></img>
-<img src="https://github.com/JayaByu/Kawah-Ijen/blob/main/GithubRasset/taqqq.png" width="200px">
-<img width="200px" src="https://github.com/JayaByu/Kawah-Ijen/blob/main/GithubRasset/juham.png"></img>
-<img src="https://github.com/JayaByu/Kawah-Ijen/blob/main/GithubRasset/aas.png" width="200px">
-</p>
+<table>
+<td align="center">
+<a href="https://github.com/JayaByu">
+  <strong>Bayu</strong></a>
+    <br>
+      <br>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
+<img height="100" src="https://github.com/JayaByu/Kawah-Ijen/blob/main/GithubRasset/aas.png"> 
+</a>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>    
+</td>
+<td align="center">
+<a href="https://github.com/zulhamf11">
+  <strong>Zulham</strong></a>
+    <br>
+      <br>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
+<img height="100" src="https://github.com/JayaByu/Kawah-Ijen/blob/main/GithubRasset/juham.png"> 
+</a>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>    
+<td align="center">
+<a href="">
+  <strong>Taqi<strong></a>
+      <br>
+        <br>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
+<img height="100" src="https://github.com/JayaByu/Kawah-Ijen/blob/main/GithubRasset/taqqq.png"> 
+</a>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>    
+</td>
+<td align="center">
+<a href="https://github.com/Anggi-p">
+  <strong>Anggi</strong></a>
+  <br>
+      <br>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
+<img height="100" src="https://github.com/JayaByu/Kawah-Ijen/blob/main/GithubRasset/ngg.png"> 
+</a>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+</table>
 
 #
 
