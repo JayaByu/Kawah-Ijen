@@ -97,14 +97,7 @@ or if you open with chrome browser klik this site : http://kajen.rf.gd/
 <p align="center">
   <img src="https://github.com/JayaByu/Kawah-Ijen/blob/main/GithubRasset/Screenshot%202021-06-14%20at%2008-27-55%20KAWAH%20IJEN-BLUE%20FIRE.png">
   <a href="https://www.youtube.com/watch?v=IGnHWryCLHY">Play</a>
-</p>
-
-            
-            
-            
-            
-            
-            
+</p>        
             
             
             
