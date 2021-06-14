@@ -15,7 +15,7 @@
     <br>
       <br>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
-<img height="100" src="https://github.com/JayaByu/Kawah-Ijen/blob/main/GithubRasset/aas.png"> 
+<img height="200" src="https://github.com/JayaByu/Kawah-Ijen/blob/main/GithubRasset/aas.png"> 
 </a>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
@@ -28,7 +28,7 @@
     <br>
       <br>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
-<img height="100" src="https://github.com/JayaByu/Kawah-Ijen/blob/main/GithubRasset/juham.png"> 
+<img height="200" src="https://github.com/JayaByu/Kawah-Ijen/blob/main/GithubRasset/juham.png"> 
 </a>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
@@ -40,7 +40,7 @@
       <br>
         <br>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
-<img height="100" src="https://github.com/JayaByu/Kawah-Ijen/blob/main/GithubRasset/taqqq.png"> 
+<img height="200" src="https://github.com/JayaByu/Kawah-Ijen/blob/main/GithubRasset/taqqq.png"> 
 </a>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
@@ -53,7 +53,7 @@
   <br>
       <br>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
-<img height="100" src="https://github.com/JayaByu/Kawah-Ijen/blob/main/GithubRasset/ngg.png"> 
+<img height="200" src="https://github.com/JayaByu/Kawah-Ijen/blob/main/GithubRasset/ngg.png"> 
 </a>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
