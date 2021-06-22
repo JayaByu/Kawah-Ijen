@@ -1,5 +1,5 @@
 
-# Kelompok 3 <img src="https://github.com/JayaByu/Kawah-Ijen/blob/main/GithubRasset/kel.gif" width="6%">
+# Kelompok 2 <img src="https://github.com/JayaByu/Kawah-Ijen/blob/main/GithubRasset/kel.gif" width="6%">
 
 - Jayawardhana Bayu Krisnatama EkaPutra (2440100632)
 - Muhammad Zulham Firdaus (2440066405)
